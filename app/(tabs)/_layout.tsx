@@ -76,15 +76,6 @@ export default function TabLayout() {
           ),
         }}
       />
-      <Tabs.Screen
-        name="activities"
-        options={{
-          title: t('activities'),
-          tabBarIcon: ({ color, size }) => (
-            <MaterialIcons name="kayaking" size={size} color={color} />
-          ),
-        }}
-      />
     </Tabs>
   );
 }
