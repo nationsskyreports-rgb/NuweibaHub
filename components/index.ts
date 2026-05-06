@@ -7,3 +7,4 @@ export { FilterChips } from './camps/FilterChips';
 export { TransportCard } from './transport/TransportCard';
 export { ServiceCard } from './services/ServiceCard';
 export { EmergencyBanner } from './services/EmergencyBanner';
+export { ActivityCard } from './activities/ActivityCard';
