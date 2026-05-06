@@ -25,6 +25,7 @@ export const ar = {
   camps: 'المخيمات',
   transport: 'المواصلات',
   services: 'الخدمات',
+  activities: 'الأنشطة',
 
   // Home
   featuredCamps: 'مخيمات مميزة',
@@ -110,6 +111,24 @@ export const ar = {
   gas: 'محطة وقود',
   openHours: 'ساعات العمل',
   phone: 'هاتف',
+
+  // Activities
+  activitiesTitle: 'الأنشطة',
+  activitiesSubtitle: 'مغامرات وتجارب في نويبع',
+  activitiesCount: 'نشاط',
+  activityTypes: 'أنواع',
+  activityType: 'نوع النشاط',
+  activityAll: 'الكل',
+  activitySnorkeling: 'غطس سطحي',
+  activityCamel: 'رحلة جمال',
+  activityDesert: 'تخييم صحراوي',
+  activityATV: 'دراجات رباعية',
+  activityDiving: 'غطس عميق',
+  difficulty: 'مستوى الصعوبة',
+  diffAll: 'جميع المستويات',
+  diffEasy: 'سهل',
+  diffModerate: 'متوسط',
+  diffHard: 'متقدم',
 
   // Language
   arabic: 'العربية',

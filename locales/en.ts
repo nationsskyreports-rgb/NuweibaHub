@@ -25,6 +25,7 @@ export const en = {
   camps: 'Camps',
   transport: 'Transport',
   services: 'Services',
+  activities: 'Activities',
 
   // Home
   featuredCamps: 'Featured Camps',
@@ -110,6 +111,24 @@ export const en = {
   gas: 'Gas Station',
   openHours: 'Hours',
   phone: 'Phone',
+
+  // Activities
+  activitiesTitle: 'Activities',
+  activitiesSubtitle: 'Adventures & experiences in Nuweiba',
+  activitiesCount: 'Activities',
+  activityTypes: 'Types',
+  activityType: 'Activity Type',
+  activityAll: 'All',
+  activitySnorkeling: 'Snorkeling',
+  activityCamel: 'Camel Trek',
+  activityDesert: 'Desert Camp',
+  activityATV: 'ATV Tour',
+  activityDiving: 'Scuba Diving',
+  difficulty: 'Difficulty',
+  diffAll: 'All Levels',
+  diffEasy: 'Easy',
+  diffModerate: 'Moderate',
+  diffHard: 'Advanced',
 
   // Language
   arabic: 'العربية',
