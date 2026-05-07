@@ -18,11 +18,14 @@
       },
       "edgeToEdgeEnabled": true
     },
-    "web": {
-      "bundler": "metro",
-      "output": "static",
-      "favicon": "./assets/images/logo.png"
-    },
+
+"web": {
+  "bundler": "metro",
+  "output": "static",
+  "favicon": "./assets/images/logo.png",
+  "baseUrl": "/NuweibaHub"
+}
+    
     "plugins": [
       "expo-router",
       [
